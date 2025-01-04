@@ -1,4 +1,3 @@
-Here's an enhanced and detailed `README.md` structured according to CRISP-DM, providing thorough explanations for each section and file.
 
 ---
 
